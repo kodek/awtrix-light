@@ -7,15 +7,6 @@
   "MD041": false
 } -->
  
-<div align="center">
-  
-![Alt text](/cover.png?raw=true "logo")
-<br>
-![GitHub all releases](https://img.shields.io/github/downloads/blueforcer/awtrix3/total?style=flat-square)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/blueforcer?style=flat-square)
-![Discord](https://img.shields.io/discord/546407049148366859?label=Discord&style=flat-square)
-</div>  
-<br>  
 
 
 > [!IMPORTANT]
@@ -36,7 +27,18 @@
 >
 > Thanks to everyone who used, tested and hacked on AWTRIX 3 over the years. See you on NG.
 
+---
+---
 
+<div align="center">
+  
+![Alt text](/cover.png?raw=true "logo")
+<br>
+![GitHub all releases](https://img.shields.io/github/downloads/blueforcer/awtrix3/total?style=flat-square)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/blueforcer?style=flat-square)
+![Discord](https://img.shields.io/discord/546407049148366859?label=Discord&style=flat-square)
+</div>  
+<br>  
 
 
 
