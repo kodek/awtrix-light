@@ -16,6 +16,30 @@
 ![Discord](https://img.shields.io/discord/546407049148366859?label=Discord&style=flat-square)
 </div>  
 <br>  
+
+
+> [!IMPORTANT]
+> ## AWTRIX 3 is no longer maintained
+>
+> Development of AWTRIX 3 has ended. This repository stays online as an archive — the
+> firmware keeps working on your device, but there will be no further releases, no new
+> features, and no bug fixes. Issues and pull requests are no longer being worked on.
+>
+> ### The successor is here: **[AWTRIX NG](https://github.com/Blueforcer/awtrix-ng)**
+>
+> AWTRIX NG is a complete rewrite from scratch and is where all development happens now.
+> It does everything AWTRIX 3 did, and a lot it never could:
+>
+> 📖 [Documentation](https://blueforcer.github.io/awtrix-ng/) &nbsp;·&nbsp;
+> 🚀 [Discord](https://discord.gg/5pbmeCrs3a) &nbsp;·&nbsp;
+> ⬇️ [Get AWTRIX NG](https://github.com/Blueforcer/awtrix-ng)
+>
+> Thanks to everyone who used, tested and hacked on AWTRIX 3 over the years. See you on NG.
+
+
+
+
+
   
 **AWTRIX 3 is an open‑source custom firmware for the [Ulanzi Smart Pixel clock TC001](https://www.ulanzi.com/products/ulanzi-pixel-smart-clock-2882?ref=28e02dxl) or as upgrade for the old AWTRIX 2 Mainboard and even self build matrix clock**
 
