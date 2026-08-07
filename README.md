@@ -14,7 +14,7 @@
 >
 > Development of AWTRIX 3 has ended. This repository stays online as an archive — the
 > firmware keeps working on your device, but there will be no further releases, no new
-> features, and no bug fixes. Issues and pull requests are no longer being worked on.
+> features. Issues and pull requests are no longer being worked on.
 >
 > ### The successor is here: **[AWTRIX NG](https://github.com/Blueforcer/awtrix-ng)**
 >
